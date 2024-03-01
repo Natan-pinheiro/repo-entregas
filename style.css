@@ -1,0 +1,47 @@
+.div1
+        {
+
+            background-color: #fa0ffa; 
+            height: 400px; 
+            width: 200px;
+
+        }
+
+        .div2
+        {
+
+            background-color: #6f71f0; 
+            height: 320px; 
+            width: 100px;
+
+        }
+
+        .div3
+        {
+
+            width: 50%; 
+            height: 40vh; 
+            background-color: rgb(223, 98, 206);
+
+        }
+
+
+        .div4
+        {
+
+            width: 90vw; 
+            height: 55%; 
+            background-color: rgb(69, 201, 51);
+
+        }
+
+        p
+        {
+
+            color: gray; 
+            background-color: burlywood; 
+            font-size: 700px; 
+            font-family: monospace; 
+            font-weight: bold;
+
+        }
